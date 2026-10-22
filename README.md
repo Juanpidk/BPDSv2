@@ -200,6 +200,7 @@ npm run dev
 ```
 
 ---
+Prueba de despliegue AWS EC2
 
 ## 📄 Licencia
 
